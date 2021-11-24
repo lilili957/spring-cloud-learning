@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: slaveone
+  application:
+    name: eureka-server-cluster
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+
+server:
+  port: 9002

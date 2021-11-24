@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-client/configclient.iml" filepath="$PROJECT_DIR$/config-client/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/configserver.iml" filepath="$PROJECT_DIR$/config-server/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erueka-server-cluster/erueka-server-cluster.iml" filepath="$PROJECT_DIR$/erueka-server-cluster/erueka-server-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eurekaserver.iml" filepath="$PROJECT_DIR$/eureka-server/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-filter/gateway-filter.iml" filepath="$PROJECT_DIR$/gateway-filter/gateway-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-first-sight/gateway-first-sight.iml" filepath="$PROJECT_DIR$/gateway-first-sight/gateway-first-sight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-limit/gateway-limit.iml" filepath="$PROJECT_DIR$/gateway-limit/gateway-limit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-predicate/gateway-predicate.iml" filepath="$PROJECT_DIR$/gateway-predicate/gateway-predicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-miya/service-miya.iml" filepath="$PROJECT_DIR$/service-miya/service-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-learning.iml" filepath="$PROJECT_DIR$/spring-cloud-learning.iml" />
+    </modules>
+  </component>
+</project>
